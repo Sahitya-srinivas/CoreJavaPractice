@@ -1,1 +1,1 @@
-# java-data-structures
+# Core Java Practice
