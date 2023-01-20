@@ -17,6 +17,7 @@ public class ArithmeticProgression {
 		int temp = initial;
 		System.out.println("The arithmetic progression from "+initial+" to the "+n+"th digit is:");
 		System.out.print(initial);
+		// printing arithmetic progression
 		for(int i=1;i<n;i++) {
 			temp = temp+diff;
 			System.out.print(" "+temp);
